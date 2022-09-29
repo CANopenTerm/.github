@@ -2,8 +2,7 @@
 
 A versatile software tool to analyse and configure CANopen devices.
 
-The main repository of CANopenTerm can be found here:
-[CANopenTerm](https://github.com/CANopenTerm/CANopenTerm)
+The main repository of CANopenTerm can be found [here](https://github.com/CANopenTerm/CANopenTerm).
 
 ## About
 
