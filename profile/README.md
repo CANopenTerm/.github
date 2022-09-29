@@ -32,8 +32,3 @@ writing and reading an EDS, generating traffic, etc.
 - Optional graphical user interface.
 
 - Can be used without limitations under Windows as well on Linux.
-
-## License
-
-This project is licensed under the "The MIT License".  See the
-[LICENSE](LICENSE.md) for details.
