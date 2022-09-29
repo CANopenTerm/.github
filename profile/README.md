@@ -1,19 +1,13 @@
 # CANopenTerm
 
-A versatile software tool to analyse and configure CANopen devices.
-
-The main repository of CANopenTerm can be found here:
-[CANopenTerm](https://github.com/CANopenTerm/CANopenTerm).
-
-## About
-
 You work in an R&D environment and are responsible for the development
 or testing of CANopen devices? Or you are an application engineer and
 need a practical tool to communicate within a CANopen network?
 
-Then CANopenTerm is exactly the right thing for you, because it was
-developed for exactly this purpose. CANopenTerm is an interactive
-terminal that communicates via external CAN hardware on the BUS. In
+Then CANopenTerm is exactly the right tool for you, because it was
+developed for exactly this purpose.  CANopenTerm is a versatile software
+tool to analyse and configure CANopen devices.  It is an interactive
+terminal that communicates via external CAN hardware on the CAN-Bus.  In
 addition to an integrated help for each command, a Lua API is also
 available, which can be used to automate recurring tasks, such as
 writing and reading an EDS, generating traffic, etc.
@@ -32,8 +26,3 @@ writing and reading an EDS, generating traffic, etc.
 - Optional graphical user interface.
 
 - Can be used without limitations under Windows as well on Linux.
-
-## License
-
-This project is licensed under the "The MIT License".  See the
-[LICENSE](LICENSE.md) for details.
