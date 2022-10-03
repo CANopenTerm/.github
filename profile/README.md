@@ -1,5 +1,7 @@
 # CANopenTerm
 
+## Description
+
 Do you work in an R&D environment and are responsible for the
 development or testing of CANopen devices? You are an application
 engineer in need of a simple tool to communicate easily and efficiently
