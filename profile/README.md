@@ -25,6 +25,8 @@ the terms of a permissive open source license.
 
 - Read and write Service Data Objects (SDO).
 
+- Built-in object dictionary
+
 - Send Network management (NMT) commands.
 
 - Simulate asynchronous Process Data Objects (PDO) for testing.
