@@ -26,18 +26,18 @@ on a CANopen network, allowing you to:
 
 ## Key Features:
 
-- **Lua 5.4 Interpreter**
+- **Lua 5.4 Interpreter**  
   Write scripts to automate tasks and leverage a custom API with
   a raw CAN interface.
 
-- **Cross-Platform Compatibility**
+- **Cross-Platform Compatibility**  
   Written in ANSI C, CANopenTerm is highly portable with minimal
   dependencies ([SDL2](https://github.com/libsdl-org/SDL/tree/SDL2),
   [Lua 5.4](https://www.lua.org/about.html)). It supports
   [SocketCAN](https://www.kernel.org/doc/html/latest/networking/can.html)
   on Linux and [PEAK CAN](https://www.peak-system.com/) on Windows.
 
-- **Open Source and Free**
+- **Open Source and Free**  
   Released under a permissive open-source license, CANopenTerm is
   free for all to use.
 
