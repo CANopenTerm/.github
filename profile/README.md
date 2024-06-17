@@ -56,5 +56,6 @@ tool remains available and continues to evolve.
 
 Thank you for your support!
 
-[![Donate](https://canopenterm.de/media/de-pp-logo-200px.png)](https://www.paypal.com/donate/?hosted_button_id=9K6YZYKPNUN9Q "Donate")
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/mupf.dev)
+
 
