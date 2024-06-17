@@ -56,6 +56,7 @@ tool remains available and continues to evolve.
 
 Thank you for your support!
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/mupf.dev)
+[![Buy Me A Coffee](https://canopenterm.de/media/buy-me-a-coffee.png)](https://www.buymeacoffee.com/mupf.dev)
+
 
 
