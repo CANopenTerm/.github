@@ -86,10 +86,3 @@ significant difference, enabling continued development and support.
 Your contribution, no matter how small, will be greatly appreciated
 and will help keep CANopenTerm thriving. Together, we can ensure
 this essential tool remains available and continues to evolve.
-
-## Try It Yourself
-
-Ready to see what CANopenTerm can do for you?  [Download](https://github.com/CANopenTerm/CANopenTerm/releases)
-it today and explore its full potential. Whether you're an R&D professional
-or an application engineer, CANopenTerm is designed to meet your needs and
-help you achieve your goals.
