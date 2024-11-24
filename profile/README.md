@@ -79,6 +79,10 @@ Key functionalities include:
   Verify the object dictionary of your CANopen CC devices with the built-in
   electronic data sheet (EDS) parser.
 
+- **Test Report Generation**:
+  Generate Test reports for integration with continuous integration (CI) systems
+  such as [Jenkins](https://plugins.jenkins.io/junit/).
+
 ## Code Quality and Standards
 
 - **ANSI C Source Code**:
