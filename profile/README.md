@@ -3,7 +3,6 @@
 [![CANopenTerm](https://raw.githubusercontent.com/CANopenTerm/CANopenTerm/main/media/logo.svg)](https://raw.githubusercontent.com/CANopenTerm/CANopenTerm/main/media/logo.svg?raw=true "CANopenTerm")
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d0b16a90be6d4a59beafcabd727b2a2f)](https://app.codacy.com/gh/CANopenTerm/CANopenTerm/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-
 [![Continuous Deployment](https://github.com/CANopenTerm/CANopenTerm/actions/workflows/continuous-deployment.yml/badge.svg)](https://github.com/CANopenTerm/CANopenTerm/actions/workflows/continuous-deployment.yml)
 
 ## Table of Contents
@@ -13,10 +12,6 @@
 - [Key Features](#key-features)
 
 - [Additional Features](#additional-features)
-
-- [Code Quality and Standards](#code-quality-and-standards)
-
-- [Open Source Commitment](#open-source-commitment)
 
 - [Why Your Support Matters](#why-your-support-matters)
    
@@ -84,6 +79,9 @@ Key functionalities include:
 - **Test Report Generation**:
   Generate Test reports for integration with continuous integration (CI) systems
   such as [Jenkins](https://plugins.jenkins.io/junit/).
+
+- **Grahical Widgets**:
+  Intuitive graphical widgets for real-time CAN data visualisation.
 
 ## Why Your Support Matters
 
